@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Minhaj
+- 👋 Hi, I’m Minhaj
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on open source project
 
