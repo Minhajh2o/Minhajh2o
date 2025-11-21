@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minhaj
-- 🌱 I’m currently learning full stack web development 
+- 🌱 I’m currently learning full stack web development (MERN)
 - 💞️ I’m looking to collaborate on open source project
 
 
