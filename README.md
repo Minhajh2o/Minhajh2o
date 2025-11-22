@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="portfolio-bg.png" alt="Minhajul Islam Portfolio Banner" width="100%" />
+  <img src="portfolio-banner.png" alt="Minhajul Islam Portfolio Banner" width="100%" />
 </div>
 
 <div align="center">
