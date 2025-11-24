@@ -28,12 +28,12 @@
 
 ### 👨‍💻 About Me
 
-I am an undergraduate **Computer Science & Engineering** student at **United International University (UIU)** (7th Trimester). Outside of my coursework, I am a passionate self-taught developer focusing on building clean, responsive, and user-centric web applications.
+I am an undergraduate **CS** student at **United International University (UIU)** (7th Trimester). Outside of my coursework, I am a passionate self-taught developer focusing on building clean, responsive, and user-centric web applications.
 
-* 🔭 **Currently working on:** Full-stack projects to master the MERN architecture.
-* 🌱 **Learning:** Node.js, Express.js, MongoDB, and API Design.
-* 🎨 **I care about:** Clean UI/UX, pixel-perfect design, and solving real-world problems.
-* ⚡ **Fun fact:** When I'm not coding, I love reading books, watching movies, exploring UI/UX designs, and keeping up with the latest tech news.
+* **Currently working on:** Full-stack projects to master the MERN architecture.
+* **Learning:** Node.js, Express.js, MongoDB, and API Design.
+* **I care about:** Clean UI/UX, pixel-perfect design, and solving real-world problems.
+* **Fun fact:** When I'm not coding, I love reading books, watching movies, exploring UI/UX designs, and keeping up with the latest tech news.
 
 ---
 
@@ -54,7 +54,6 @@ I am an undergraduate **Computer Science & Engineering** student at **United Int
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 **Core Languages**
 <br>
