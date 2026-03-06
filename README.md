@@ -49,7 +49,11 @@ I am driven by curiosity, creativity, and a commitment to continuous learning, w
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animation-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Tools
@@ -57,7 +61,11 @@ I am driven by curiosity, creativity, and a commitment to continuous learning, w
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -75,11 +83,10 @@ I am driven by curiosity, creativity, and a commitment to continuous learning, w
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[UIU English Language Forum](https://uiuelf.vercel.app)** | 📝 **Official Website for UIUELF**<br>Official platform for the UIU English Language Forum. Features dynamic event management, gallery, member registration, and interactive UI. | React 19, Tailwind, Google App Script |
 | **[Sheeter Alo](https://sheeter-alo.web.app)** | ❄️ **Winter Donation Platform**<br>Connects donors with volunteers to help people in Bangladesh. | React, Firebase, Tailwind |
 | **[Tango-Time](https://tango-time-d7d0c.web.app)** | 🇯🇵 **Vocabulary Learning SPA**<br>Interactive Japanese learning tool with lessons and pronunciation. | React, DaisyUI, Firebase |
-| **[Boi Poka](https://boi-poka-beta.vercel.app/)** | 📚 **Online Bookstore**<br>Features a wishlist, cart system, and detailed book views. | React Router, Tailwind |
 | **[UIU CGPA Calculator](https://cgpa-calculator-uiu.vercel.app/)** | 🧮 **University Tool**<br>Custom grading calculator specifically for UIU students. | React, JavaScript |
-| **[Our Gadgets](https://our-gadgets.netlify.app/)** | 📱 **Tech E-commerce**<br>Product listings with filtering and detailed JSON-driven UI. | React, Context API |
 
 > _Want to see more? Check out my **[Portfolio Projects Page](https://portfolio-minhajul-islam.netlify.app/projects)**._
 
@@ -88,8 +95,8 @@ I am driven by curiosity, creativity, and a commitment to continuous learning, w
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhajh2o&show_icons=true&theme=midnight-purple&hide_border=true" height="160" alt="Minhajh2o's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajh2o&layout=compact&theme=midnight-purple&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhajh2o&show_icons=true&theme=midnight-purple&hide_border=true" alt="Minhajh2o's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajh2o&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
