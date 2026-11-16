@@ -35,10 +35,10 @@ Most of my work so far has been in web development — building full-stack appli
 
 I'm still figuring out where I want to specialize, and honestly, that's part of the fun.
 
-- 🔍 **Currently exploring:** Linux, Cybersecurity, AI, and Machine Learning
-- 🛠 **Working with:** React, Next.js, TypeScript, Node.js, and related tools
-- 📚 **Learning:** Application security, networking fundamentals, Linux
-- 💡 **Interested in:** Software quality, system design, security, and practical problem-solving
+🔍 **Currently exploring:** Linux, Cybersecurity, AI, and Machine Learning
+🛠 **Working with:** React, Next.js, TypeScript, Node.js, and related tools
+📚 **Learning:** Application security, networking fundamentals, Linux
+💡 **Interested in:** Software quality, system design, security, and practical problem-solving
 
 ---
 
