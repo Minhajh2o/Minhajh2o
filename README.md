@@ -94,7 +94,7 @@ I'm still figuring out where I want to specialize, and honestly, that's part of 
 
 | Project | Description | Live |
 | :--- | :--- | :---: |
-| **ParkEase-BD** | A team-built, location-based parking marketplace for Dhaka. Drivers discover spaces on an interactive map, make bookings, and get a QR/OTP access pass. Multiple role-specific workspaces: driver, owner, manager, guard, and admin. I contributed as **frontend engineer** — UI flows, component systems, and backend API integration. | [Source](https://github.com/Minhajh2o/ParkEase-BD) · [Live Demo](https://parkease-bd.vercel.app/)  |
+| **ParkEase-BD** | A team-built, location-based parking marketplace for Dhaka. Drivers discover spaces on an interactive map, make bookings, and get a QR/OTP access pass. Multiple role-specific workspaces: driver, owner, manager, guard, and admin. I contributed as **frontend engineer** — UI flows, component systems, and backend API integration. | [Source](https://github.com/0xFaysal/se-lab-wake-up-to-reality.git) · [Visit →](https://parkease-bd.vercel.app/)  |
 | **UIU English Language Forum** | Official platform for UIUELF — event listings with individual event pages, event registration, photo gallery, member join form, and an admin dashboard for content management. Built with React, Tailwind, Node.js, and MongoDB. | [Visit →](https://uiuelf.vercel.app) |
 | **Sheeter Alo** | Winter donation platform connecting donors with volunteers for helping people in need. Built with React, Firebase, and Tailwind. | [Visit →](https://sheeter-alo.web.app) |
 | **Tango-Time** | An interactive Japanese language learning app with vocabulary lessons and pronunciation guides. Built with React, DaisyUI, and Firebase. | [Visit →](https://tango-time-d7d0c.web.app) |
